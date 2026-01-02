@@ -1,6 +1,6 @@
 # todo/tasks
 
-Tasks
+[Edit in DataTug.app](https://datatug.app/#ingitdb=github.com/ingitdb/demo-ingitdb/todo/tasks)
 
 ## Views
 
