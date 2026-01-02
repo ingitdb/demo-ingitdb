@@ -1,2 +1,3 @@
 rootCollections:
-  countries: ./countries
+  countries: ./geo/countries
+  "todo_*": ./todo/*

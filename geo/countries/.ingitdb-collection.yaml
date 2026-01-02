@@ -1,0 +1,20 @@
+title: Countries
+recordFormat: json
+columns:
+  $ID:
+    type: string
+    length: 2
+    title: ISO Code
+  names:
+    type: "map[string]string"
+    required: true
+    valueTitle: Name
+  population:
+    type: int
+    title: Population
+  area:
+    type: int
+    title: Area (km²)
+  capital:
+    type: string
+    required: true
