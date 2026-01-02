@@ -1,24 +1,12 @@
 titles:
   en: "Tasks",
   ru: "Задачи"
+recordsDir: $records
 columns:
-  title:
-    type: string
-    title: Title
   status:
     type: string
     title: Status
     fk: statuses
-views:
-  status_$(status):
-    formats:
-      - md
-    columns:
-      - title:
-      - tags:
-  tag_$(tags):
-    formats:
-      - md
-    columns:
-      - title:
-      - status:
+  title:
+    type: string
+    title: Title
