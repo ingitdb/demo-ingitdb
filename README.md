@@ -1,4 +1,4 @@
-# [demo-ingitdb](https://github.com/ingitdb/demo-ingitdb)
+# demo-ingitdb
 
 A demo IngitDB database - versioned, with support for multiple languages and views
 
