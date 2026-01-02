@@ -10,15 +10,15 @@ columns:
     title: Status
     fk: statuses
 views:
-  tag_$(tags):
-    formats:
-      - md
-    columns:
-      - title:
-      - status:
   status_$(status):
     formats:
       - md
     columns:
       - title:
       - tags:
+  tag_$(tags):
+    formats:
+      - md
+    columns:
+      - title:
+      - status:
