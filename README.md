@@ -4,7 +4,7 @@ A demo IngitDB database - versioned, with support for multiple languages and vie
 
 ## Collections:
 
-- [GEO](geo)
+- [geo](geo)
     - [countries](geo/countries)
         - states
             - cities
