@@ -1,4 +1,5 @@
-name: ingitdb.yml
+name: inGitDB
+
 on:
   push:
     branches: ['*']
