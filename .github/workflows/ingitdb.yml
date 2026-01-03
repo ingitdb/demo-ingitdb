@@ -1,0 +1,12 @@
+name: ingitdb.yml
+on:
+  push:
+    branches: ['*']
+    tags: ['*']
+
+jobs:
+  ingitdb_validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: ingitdb/ingitdb-action@v0
