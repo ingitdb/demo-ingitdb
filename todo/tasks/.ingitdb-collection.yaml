@@ -1,6 +1,6 @@
 titles:
-  en: "Tasks",
-  ru: "Задачи"
+  en: Tasks
+  ru: Задачи
 recordsDir: $records
 columns:
   title:

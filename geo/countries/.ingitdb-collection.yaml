@@ -1,12 +1,13 @@
-title: Countries
+titles:
+  en: Countries
+  ru: Страны
+  es: Países
+  fr: Pays
+  de: Länder
 recordFormat: json
 columns:
-  $ID:
-    type: string
-    length: 2
-    title: ISO Code
   names:
-    type: "map[string]string"
+    type: map[string]string
     required: true
     valueTitle: Name
   population:
