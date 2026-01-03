@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: ingitdb/ingitdb-action@v0
+      - uses: ingitdb/ingitdb-action@main
