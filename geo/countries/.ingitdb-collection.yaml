@@ -4,7 +4,7 @@ titles:
   es: Países
   fr: Pays
   de: Länder
-recordFormat: json
+record_format: json
 columns:
   names:
     type: map[string]string
