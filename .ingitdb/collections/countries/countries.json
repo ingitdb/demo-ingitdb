@@ -9,11 +9,13 @@
         },
         {
             "id": "title",
-            "type": "string"
+            "type": "string",
+            "required": true
         },
         {
             "id": "population",
-            "type": "integer"
+            "type": "integer",
+            "required": false
         }
     ],
     "readme": {

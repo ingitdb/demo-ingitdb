@@ -5,7 +5,8 @@
     "fields": [
         {
             "id": "id",
-            "type": "string"
+            "type": "string",
+            "required": true
         },
         {
             "id": "title",
