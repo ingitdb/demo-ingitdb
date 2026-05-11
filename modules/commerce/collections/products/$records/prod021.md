@@ -1,6 +1,6 @@
+---
 sku: JEANS-WOMENS-28-SKIN
 name: "Women's Skinny Jeans W28"
-description: High-waist skinny jeans in dark wash
 category_id: womens_clothing
 supplier_id: sup003
 image_id: img017
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.55
 stock_quantity: 250
 is_active: true
+---
+**High-waist** skinny jeans in *dark wash*.

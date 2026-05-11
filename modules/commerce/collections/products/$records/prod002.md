@@ -1,6 +1,6 @@
+---
 sku: LAPTOP-ULTRA-13
-name: "Ultrabook 13""
-description: Slim and lightweight ultrabook for travelers
+name: "Ultrabook 13\""
 category_id: computers
 supplier_id: sup001
 image_id: img002
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 1.3
 stock_quantity: 75
 is_active: true
+---
+*Slim* and *lightweight* ultrabook for **travelers**.

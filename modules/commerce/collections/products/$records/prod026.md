@@ -1,6 +1,6 @@
+---
 sku: PILLOW-THROW-2PK
 name: Decorative Throw Pillows 2-Pack
-description: Set of 2 decorative throw pillows
 category_id: home_garden
 supplier_id: sup004
 image_id: img022
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.7
 stock_quantity: 300
 is_active: true
+---
+Set of *2* **decorative** throw pillows.

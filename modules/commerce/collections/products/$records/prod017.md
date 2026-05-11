@@ -1,6 +1,6 @@
+---
 sku: CHINOS-MENS-32-32
 name: "Men's Chino Pants 32/32"
-description: Slim fit chino pants in khaki
 category_id: mens_clothing
 supplier_id: sup003
 image_id: img014
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.5
 stock_quantity: 200
 is_active: true
+---
+*Slim fit* chino pants in *khaki*.

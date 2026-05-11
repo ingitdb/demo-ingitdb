@@ -1,6 +1,6 @@
+---
 sku: KB-MECH-TKL
 name: Mechanical Keyboard TKL
-description: Tenkeyless mechanical keyboard with Cherry MX switches
 category_id: computers
 supplier_id: sup002
 image_id: img010
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.8
 stock_quantity: 200
 is_active: true
+---
+Tenkeyless **mechanical** keyboard with <u>Cherry MX</u> switches.

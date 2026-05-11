@@ -1,6 +1,6 @@
+---
 sku: YOGA-MAT-6MM
 name: Premium Yoga Mat 6mm
-description: Non-slip 6mm thick yoga mat
 category_id: home_garden
 supplier_id: sup002
 image_id: img025
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 1.1
 stock_quantity: 250
 is_active: true
+---
+**Non-slip** *6mm thick* yoga mat.

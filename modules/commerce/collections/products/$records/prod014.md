@@ -1,6 +1,6 @@
+---
 sku: POLO-MENS-M-BLU
 name: "Men's Polo Shirt Blue M"
-description: Classic fit cotton polo shirt in navy blue
 category_id: mens_clothing
 supplier_id: sup003
 image_id: img012
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.25
 stock_quantity: 500
 is_active: true
+---
+**Classic fit** cotton polo shirt in *navy blue*.

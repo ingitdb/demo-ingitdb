@@ -1,6 +1,6 @@
+---
 sku: PHONE-BUDGET-64
 name: BudgetPhone 64GB
-description: Affordable smartphone with great battery life
 category_id: phones
 supplier_id: sup002
 image_id: img004
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.17
 stock_quantity: 250
 is_active: true
+---
+*Affordable* smartphone with **great battery life**.

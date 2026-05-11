@@ -1,6 +1,6 @@
+---
 sku: CHARGER-65W-GAN
 name: 65W GaN Charger
-description: Compact 65W GaN USB-C fast charger
 category_id: electronics
 supplier_id: sup001
 image_id: img024
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.12
 stock_quantity: 350
 is_active: true
+---
+*Compact* **65W** GaN USB-C *fast charger*.

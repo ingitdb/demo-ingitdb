@@ -1,6 +1,6 @@
+---
 sku: CABLE-USBC-2M
 name: USB-C Cable 2m
-description: Braided USB-C to USB-C cable, 2 meters
 category_id: electronics
 supplier_id: sup001
 image_id: img024
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.08
 stock_quantity: 600
 is_active: true
+---
+*Braided* USB-C to USB-C cable, **2 meters**.

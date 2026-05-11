@@ -1,6 +1,6 @@
+---
 sku: MONITOR-27-4K
 name: 4K Monitor 27 inch
-description: Ultra HD 4K monitor for design professionals
 category_id: computers
 supplier_id: sup005
 image_id: img009
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 5.2
 stock_quantity: 40
 is_active: true
+---
+**Ultra HD 4K** monitor for *design professionals*.

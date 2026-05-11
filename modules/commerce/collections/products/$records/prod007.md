@@ -1,6 +1,6 @@
+---
 sku: PHONE-X12-128
 name: SmartPhone X12 128GB
-description: Latest flagship smartphone with 6.1 inch display
 category_id: phones
 supplier_id: sup005
 image_id: img004
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.19
 stock_quantity: 150
 is_active: true
+---
+Latest **flagship** smartphone with *6.1 inch* display.

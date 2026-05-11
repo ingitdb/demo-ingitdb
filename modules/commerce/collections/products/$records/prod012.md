@@ -1,6 +1,6 @@
+---
 sku: WATCH-SMART-S1
 name: SmartWatch Series 1
-description: Fitness and health tracking smartwatch
 category_id: electronics
 supplier_id: sup005
 image_id: img023
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.05
 stock_quantity: 200
 is_active: true
+---
+*Fitness* and *health tracking* smartwatch.

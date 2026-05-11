@@ -1,6 +1,6 @@
+---
 sku: SPEAKER-SMART
 name: Smart Speaker
-description: AI-powered smart speaker with premium sound
 category_id: electronics
 supplier_id: sup001
 image_id: img008
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.8
 stock_quantity: 90
 is_active: true
+---
+**AI-powered** smart speaker with *premium sound*.

@@ -1,6 +1,6 @@
+---
 sku: INSTANT-POT-6QT
 name: Instant Pot 6-Quart
-description: 7-in-1 electric pressure cooker
 category_id: kitchen
 supplier_id: sup004
 image_id: img020
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 4.2
 stock_quantity: 100
 is_active: true
+---
+**7-in-1** *electric* pressure cooker.

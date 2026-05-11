@@ -1,6 +1,6 @@
+---
 sku: BLENDER-PRO-1200
 name: Professional Blender 1200W
-description: High-power blender for smoothies and soups
 category_id: kitchen
 supplier_id: sup004
 image_id: img018
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 2.5
 stock_quantity: 80
 is_active: true
+---
+**High-power** blender for *smoothies* and *soups*.

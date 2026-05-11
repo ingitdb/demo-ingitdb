@@ -1,6 +1,6 @@
+---
 sku: LAMP-DESK-LED
 name: LED Desk Lamp
-description: Adjustable LED desk lamp with USB charging port
 category_id: home_garden
 supplier_id: sup004
 image_id: img021
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.8
 stock_quantity: 200
 is_active: true
+---
+*Adjustable* LED desk lamp with **USB charging port**.

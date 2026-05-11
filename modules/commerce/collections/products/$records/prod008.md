@@ -1,6 +1,6 @@
+---
 sku: PHONE-X12-256
 name: SmartPhone X12 256GB
-description: Latest flagship smartphone with 6.1 inch display, 256GB storage
 category_id: phones
 supplier_id: sup005
 image_id: img005
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.19
 stock_quantity: 100
 is_active: true
+---
+Latest **flagship** smartphone with *6.1 inch* display and <u>256GB storage</u>.

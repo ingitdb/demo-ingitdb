@@ -1,6 +1,6 @@
+---
 sku: LAPTOP-PRO-15
-name: "Professional Laptop 15""
-description: High-performance laptop for professionals
+name: "Professional Laptop 15\""
 category_id: computers
 supplier_id: sup001
 image_id: img001
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 2.1
 stock_quantity: 50
 is_active: true
+---
+**High-performance** laptop for *professionals*.

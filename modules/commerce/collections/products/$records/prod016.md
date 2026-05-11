@@ -1,6 +1,6 @@
+---
 sku: SHIRT-DRESS-M-BLU
 name: "Men's Dress Shirt Blue M"
-description: Slim fit Oxford dress shirt in blue
 category_id: mens_clothing
 supplier_id: sup003
 image_id: img013
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.3
 stock_quantity: 300
 is_active: true
+---
+*Slim fit* **Oxford** dress shirt in blue.

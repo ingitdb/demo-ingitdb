@@ -1,6 +1,6 @@
+---
 sku: DRESS-FLORAL-M
 name: "Women's Floral Dress M"
-description: Summer floral midi dress
 category_id: womens_clothing
 supplier_id: sup003
 image_id: img015
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.37
 stock_quantity: 400
 is_active: true
+---
+**Summer** *floral* midi dress.

@@ -1,6 +1,6 @@
+---
 sku: MOUSE-GAMING
 name: Gaming Mouse Pro
-description: High-precision gaming mouse with RGB lighting
 category_id: computers
 supplier_id: sup002
 image_id: img011
@@ -9,3 +9,5 @@ currency_id: USD
 weight_kg: 0.1
 stock_quantity: 300
 is_active: true
+---
+*High-precision* gaming mouse with **RGB lighting**.
