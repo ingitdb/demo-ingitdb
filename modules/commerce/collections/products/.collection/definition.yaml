@@ -6,6 +6,7 @@ record_file:
   type: "map[string]any"
   format: markdown
   content_field: description
+  exclude_regex: '^README\.md$'
 
 columns:
   "$ID":
