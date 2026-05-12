@@ -1,0 +1,13 @@
+customer_id: cust004
+billing_address_id: addr007
+shipping_address_id: addr007
+shipping_option_id: fedex_overnight
+currency_id: CAD
+status: confirmed
+subtotal: 1859.98
+discount_amount: 465.0
+tax_amount: 111.6
+shipping_amount: 49.99
+total_amount: 1556.58
+placed_at: "2024-12-14T16:00:00Z"
+promotion_id: promo005

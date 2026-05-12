@@ -1,0 +1,20 @@
+[
+  {
+    "$ID": "od_ord003_001",
+    "product_id": "prod010",
+    "quantity": 1,
+    "unit_price": 349.99,
+    "currency_id": "GBP",
+    "line_total": 279.99,
+    "discount_percent": 20.0
+  },
+  {
+    "$ID": "od_ord003_002",
+    "product_id": "prod012",
+    "quantity": 1,
+    "unit_price": 249.99,
+    "currency_id": "GBP",
+    "line_total": 199.99,
+    "discount_percent": 20.0
+  }
+]

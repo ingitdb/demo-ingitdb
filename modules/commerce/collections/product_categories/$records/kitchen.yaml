@@ -1,0 +1,5 @@
+name: Kitchen
+parent_category_id: home_garden
+description: Kitchen appliances and utensils
+sort_order: 8
+is_active: true

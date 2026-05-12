@@ -1,0 +1,4 @@
+name: Canadian Dollar
+symbol: CA$
+decimal_places: 2
+is_active: true

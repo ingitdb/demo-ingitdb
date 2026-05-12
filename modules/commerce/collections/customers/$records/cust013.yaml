@@ -1,0 +1,8 @@
+first_name: Mia
+last_name: Anderson
+email: "mia.anderson@example.com"
+phone: "+16025551313"
+country_id: US
+preferred_currency_id: USD
+created_at: "2023-09-05T10:00:00Z"
+is_active: true

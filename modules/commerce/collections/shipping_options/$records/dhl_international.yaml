@@ -1,0 +1,8 @@
+shipper_id: dhl
+name: DHL International Express
+service_level: express
+base_price: 39.99
+currency_id: USD
+estimated_days_min: 2
+estimated_days_max: 5
+is_active: true

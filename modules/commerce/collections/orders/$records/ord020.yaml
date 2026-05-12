@@ -1,0 +1,14 @@
+customer_id: cust004
+billing_address_id: addr007
+shipping_address_id: addr007
+shipping_option_id: ups_express
+currency_id: CAD
+status: delivered
+subtotal: 269.97
+discount_amount: 0.0
+tax_amount: 21.6
+shipping_amount: 22.99
+total_amount: 314.56
+placed_at: "2024-06-10T11:00:00Z"
+shipped_at: "2024-06-12T09:00:00Z"
+delivered_at: "2024-06-14T15:00:00Z"

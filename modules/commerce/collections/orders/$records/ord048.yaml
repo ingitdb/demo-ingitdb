@@ -1,0 +1,14 @@
+customer_id: cust002
+billing_address_id: addr003
+shipping_address_id: addr003
+shipping_option_id: ups_ground
+currency_id: USD
+status: refunded
+subtotal: 299.99
+discount_amount: 0.0
+tax_amount: 24.0
+shipping_amount: 8.99
+total_amount: 332.98
+placed_at: "2024-11-15T10:00:00Z"
+shipped_at: "2024-11-18T11:00:00Z"
+delivered_at: "2024-11-23T15:00:00Z"

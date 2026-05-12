@@ -1,0 +1,5 @@
+country_id: AU
+label: AU GST
+rate_percent: 10.0
+effective_date: 2024-01-01
+is_active: true

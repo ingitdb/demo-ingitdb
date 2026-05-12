@@ -1,0 +1,8 @@
+customer_id: cust008
+label: Home
+line1: 1-1 Marunouchi
+city: Tokyo
+state: Tokyo
+postal_code: 100-0005
+country_id: JP
+is_default: true

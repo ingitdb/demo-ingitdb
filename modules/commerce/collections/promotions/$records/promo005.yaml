@@ -1,0 +1,10 @@
+code: BLACKFRI25
+description: "25% off Black Friday deal"
+discount_type: percent
+discount_value: 25.0
+min_order_amount: 100.0
+valid_from: 2024-11-29
+valid_until: 2024-12-01
+max_uses: 5000
+uses_count: 3821
+is_active: false

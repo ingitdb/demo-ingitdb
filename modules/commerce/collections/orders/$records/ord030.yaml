@@ -1,0 +1,14 @@
+customer_id: cust014
+billing_address_id: addr022
+shipping_address_id: addr022
+shipping_option_id: fedex_standard
+currency_id: AUD
+status: delivered
+subtotal: 1059.98
+discount_amount: 0.0
+tax_amount: 84.8
+shipping_amount: 9.99
+total_amount: 1154.77
+placed_at: "2024-08-22T10:00:00Z"
+shipped_at: "2024-08-25T11:00:00Z"
+delivered_at: "2024-08-30T15:00:00Z"

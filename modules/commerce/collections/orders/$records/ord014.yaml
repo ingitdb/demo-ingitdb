@@ -1,0 +1,14 @@
+customer_id: cust013
+billing_address_id: addr020
+shipping_address_id: addr020
+shipping_option_id: usps_economy
+currency_id: USD
+status: delivered
+subtotal: 134.97
+discount_amount: 0.0
+tax_amount: 10.8
+shipping_amount: 4.99
+total_amount: 150.76
+placed_at: "2024-04-22T09:00:00Z"
+shipped_at: "2024-04-25T11:00:00Z"
+delivered_at: "2024-05-02T15:00:00Z"

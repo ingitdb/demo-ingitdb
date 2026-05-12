@@ -1,0 +1,8 @@
+customer_id: cust015
+label: Home
+line1: 1 Edinburgh Castle Rd
+city: Edinburgh
+state: Scotland
+postal_code: EH1 2NG
+country_id: GB
+is_default: true

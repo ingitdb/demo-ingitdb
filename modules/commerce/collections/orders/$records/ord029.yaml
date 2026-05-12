@@ -1,0 +1,15 @@
+customer_id: cust013
+billing_address_id: addr020
+shipping_address_id: addr020
+shipping_option_id: usps_priority
+currency_id: USD
+status: delivered
+subtotal: 249.98
+discount_amount: 25.0
+tax_amount: 18.0
+shipping_amount: 7.99
+total_amount: 250.97
+placed_at: "2024-08-15T16:00:00Z"
+promotion_id: promo001
+shipped_at: "2024-08-17T09:00:00Z"
+delivered_at: "2024-08-20T14:00:00Z"

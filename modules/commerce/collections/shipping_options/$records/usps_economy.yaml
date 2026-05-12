@@ -1,0 +1,8 @@
+shipper_id: usps
+name: USPS Media Mail
+service_level: economy
+base_price: 4.99
+currency_id: USD
+estimated_days_min: 5
+estimated_days_max: 10
+is_active: true

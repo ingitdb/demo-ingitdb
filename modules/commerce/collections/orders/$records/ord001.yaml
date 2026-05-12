@@ -1,0 +1,15 @@
+customer_id: cust001
+billing_address_id: addr001
+shipping_address_id: addr001
+shipping_option_id: fedex_standard
+currency_id: USD
+status: delivered
+subtotal: 1299.99
+discount_amount: 130.0
+tax_amount: 93.6
+shipping_amount: 9.99
+total_amount: 1273.58
+placed_at: "2024-01-20T14:30:00Z"
+promotion_id: promo001
+shipped_at: "2024-01-22T09:00:00Z"
+delivered_at: "2024-01-25T15:00:00Z"

@@ -1,0 +1,8 @@
+customer_id: cust002
+label: Vacation
+line1: 1 Ocean Drive
+city: Miami
+state: FL
+postal_code: 33139
+country_id: US
+is_default: false

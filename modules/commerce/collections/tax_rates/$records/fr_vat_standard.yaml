@@ -1,0 +1,5 @@
+country_id: FR
+label: FR VAT Standard
+rate_percent: 20.0
+effective_date: 2024-01-01
+is_active: true

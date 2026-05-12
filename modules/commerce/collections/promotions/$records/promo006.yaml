@@ -1,0 +1,11 @@
+code: FREESHIP
+description: Free shipping on orders over 50 USD
+discount_type: fixed
+discount_value: 9.99
+currency_id: USD
+min_order_amount: 50.0
+valid_from: 2024-01-01
+valid_until: 2024-12-31
+max_uses: 10000
+uses_count: 892
+is_active: true

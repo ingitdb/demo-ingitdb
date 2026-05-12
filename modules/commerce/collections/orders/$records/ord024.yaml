@@ -1,0 +1,14 @@
+customer_id: cust008
+billing_address_id: addr013
+shipping_address_id: addr013
+shipping_option_id: dhl_international
+currency_id: JPY
+status: delivered
+subtotal: 299.98
+discount_amount: 0.0
+tax_amount: 24.0
+shipping_amount: 39.99
+total_amount: 363.97
+placed_at: "2024-07-10T14:00:00Z"
+shipped_at: "2024-07-12T10:00:00Z"
+delivered_at: "2024-07-17T15:00:00Z"

@@ -1,0 +1,8 @@
+shipper_id: usps
+name: USPS Priority Mail
+service_level: standard
+base_price: 7.99
+currency_id: USD
+estimated_days_min: 1
+estimated_days_max: 3
+is_active: true

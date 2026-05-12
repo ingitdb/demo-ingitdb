@@ -1,0 +1,13 @@
+customer_id: cust015
+billing_address_id: addr024
+shipping_address_id: addr024
+shipping_option_id: dhl_international
+currency_id: GBP
+status: confirmed
+subtotal: 1149.98
+discount_amount: 115.0
+tax_amount: 82.8
+shipping_amount: 39.99
+total_amount: 1157.77
+placed_at: "2024-12-10T09:30:00Z"
+promotion_id: promo001

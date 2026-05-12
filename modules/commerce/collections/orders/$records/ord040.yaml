@@ -1,0 +1,14 @@
+customer_id: cust009
+billing_address_id: addr014
+shipping_address_id: addr014
+shipping_option_id: ups_express
+currency_id: USD
+status: delivered
+subtotal: 999.97
+discount_amount: 0.0
+tax_amount: 80.0
+shipping_amount: 22.99
+total_amount: 1102.96
+placed_at: "2024-11-05T14:30:00Z"
+shipped_at: "2024-11-07T09:00:00Z"
+delivered_at: "2024-11-09T16:00:00Z"

@@ -1,0 +1,15 @@
+customer_id: cust001
+billing_address_id: addr001
+shipping_address_id: addr001
+shipping_option_id: fedex_overnight
+currency_id: USD
+status: delivered
+subtotal: 1799.99
+discount_amount: 180.0
+tax_amount: 129.6
+shipping_amount: 49.99
+total_amount: 1799.58
+placed_at: "2024-05-15T10:00:00Z"
+promotion_id: promo001
+shipped_at: "2024-05-16T09:00:00Z"
+delivered_at: "2024-05-17T14:00:00Z"

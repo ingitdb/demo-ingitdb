@@ -1,0 +1,11 @@
+code: FLAT15
+description: 15 USD flat discount
+discount_type: fixed
+discount_value: 15.0
+currency_id: USD
+min_order_amount: 75.0
+valid_from: 2024-03-01
+valid_until: 2024-03-31
+max_uses: 200
+uses_count: 200
+is_active: false

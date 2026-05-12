@@ -1,0 +1,5 @@
+name: "Women's Clothing"
+parent_category_id: clothing
+description: Clothing for women
+sort_order: 6
+is_active: true

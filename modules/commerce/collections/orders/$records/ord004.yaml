@@ -1,0 +1,14 @@
+customer_id: cust004
+billing_address_id: addr007
+shipping_address_id: addr007
+shipping_option_id: fedex_express
+currency_id: CAD
+status: delivered
+subtotal: 859.98
+discount_amount: 0.0
+tax_amount: 68.8
+shipping_amount: 24.99
+total_amount: 953.77
+placed_at: "2024-02-10T11:30:00Z"
+shipped_at: "2024-02-12T08:00:00Z"
+delivered_at: "2024-02-14T17:00:00Z"

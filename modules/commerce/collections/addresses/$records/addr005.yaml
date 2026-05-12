@@ -1,0 +1,8 @@
+customer_id: cust003
+label: Home
+line1: 42 Baker Street
+city: London
+state: England
+postal_code: NW1 6XE
+country_id: GB
+is_default: true

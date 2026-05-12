@@ -1,0 +1,5 @@
+from_currency_id: USD
+to_currency_id: EUR
+rate: 0.92
+effective_date: 2024-01-01
+source: ECB

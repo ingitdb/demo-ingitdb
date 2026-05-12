@@ -1,0 +1,10 @@
+code: WELCOME20
+description: "Welcome 20% off for new customers"
+discount_type: percent
+discount_value: 20.0
+min_order_amount: 30.0
+valid_from: 2024-01-01
+valid_until: 2024-06-30
+max_uses: 500
+uses_count: 183
+is_active: false

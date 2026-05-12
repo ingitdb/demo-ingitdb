@@ -1,0 +1,5 @@
+name: "Men's Clothing"
+parent_category_id: clothing
+description: Clothing for men
+sort_order: 5
+is_active: true

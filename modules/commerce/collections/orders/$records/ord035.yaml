@@ -1,0 +1,15 @@
+customer_id: cust004
+billing_address_id: addr007
+shipping_address_id: addr007
+shipping_option_id: ups_ground
+currency_id: CAD
+status: delivered
+subtotal: 1419.97
+discount_amount: 354.99
+tax_amount: 85.2
+shipping_amount: 8.99
+total_amount: 1159.17
+placed_at: "2024-10-08T15:00:00Z"
+promotion_id: promo005
+shipped_at: "2024-10-11T10:00:00Z"
+delivered_at: "2024-10-16T14:00:00Z"

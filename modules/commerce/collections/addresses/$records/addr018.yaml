@@ -1,0 +1,8 @@
+customer_id: cust011
+label: Home
+line1: 15 Manchester Rd
+city: Manchester
+state: England
+postal_code: M1 2JA
+country_id: GB
+is_default: true

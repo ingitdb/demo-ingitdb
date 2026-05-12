@@ -1,0 +1,8 @@
+customer_id: cust004
+label: Home
+line1: 100 Wellington St
+city: Ottawa
+state: Ontario
+postal_code: K1A 0A9
+country_id: CA
+is_default: true

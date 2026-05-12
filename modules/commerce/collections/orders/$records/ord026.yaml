@@ -1,0 +1,14 @@
+customer_id: cust010
+billing_address_id: addr016
+shipping_address_id: addr016
+shipping_option_id: ups_ground
+currency_id: USD
+status: delivered
+subtotal: 549.99
+discount_amount: 0.0
+tax_amount: 44.0
+shipping_amount: 8.99
+total_amount: 602.98
+placed_at: "2024-07-25T10:00:00Z"
+shipped_at: "2024-07-28T11:00:00Z"
+delivered_at: "2024-08-02T14:00:00Z"

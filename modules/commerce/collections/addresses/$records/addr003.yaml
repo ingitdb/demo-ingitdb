@@ -1,0 +1,8 @@
+customer_id: cust002
+label: Home
+line1: 789 Broadway
+city: New York
+state: NY
+postal_code: 10003
+country_id: US
+is_default: true

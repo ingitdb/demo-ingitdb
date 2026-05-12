@@ -1,0 +1,8 @@
+customer_id: cust004
+label: Cottage
+line1: 55 Lakeview Rd
+city: Muskoka
+state: Ontario
+postal_code: P0B 1M0
+country_id: CA
+is_default: false

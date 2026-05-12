@@ -1,0 +1,6 @@
+country_id: US
+region: Texas
+label: TX Sales Tax
+rate_percent: 8.25
+effective_date: 2024-01-01
+is_active: true

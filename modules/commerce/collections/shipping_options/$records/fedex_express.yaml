@@ -1,0 +1,8 @@
+shipper_id: fedex
+name: FedEx Express
+service_level: express
+base_price: 24.99
+currency_id: USD
+estimated_days_min: 1
+estimated_days_max: 2
+is_active: true

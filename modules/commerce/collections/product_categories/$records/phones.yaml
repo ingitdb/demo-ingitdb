@@ -1,0 +1,5 @@
+name: Phones
+parent_category_id: electronics
+description: Smartphones and accessories
+sort_order: 3
+is_active: true

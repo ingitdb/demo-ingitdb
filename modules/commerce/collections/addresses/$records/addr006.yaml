@@ -1,0 +1,8 @@
+customer_id: cust003
+label: Office
+line1: 10 Downing Street
+city: London
+state: England
+postal_code: SW1A 2AA
+country_id: GB
+is_default: false

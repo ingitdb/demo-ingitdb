@@ -1,0 +1,14 @@
+currencies: collections/currencies
+exchange_rates: collections/exchange_rates
+countries: collections/countries
+customers: collections/customers
+addresses: collections/addresses
+product_categories: collections/product_categories
+product_images: collections/product_images
+products: collections/products
+suppliers: collections/suppliers
+shippers: collections/shippers
+shipping_options: collections/shipping_options
+tax_rates: collections/tax_rates
+promotions: collections/promotions
+orders: collections/orders

@@ -1,0 +1,8 @@
+shipper_id: fedex
+name: FedEx Standard Shipping
+service_level: standard
+base_price: 9.99
+currency_id: USD
+estimated_days_min: 3
+estimated_days_max: 5
+is_active: true

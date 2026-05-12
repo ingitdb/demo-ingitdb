@@ -1,0 +1,15 @@
+customer_id: cust005
+billing_address_id: addr009
+shipping_address_id: addr009
+shipping_option_id: dhl_international
+currency_id: EUR
+status: delivered
+subtotal: 799.99
+discount_amount: 120.0
+tax_amount: 54.4
+shipping_amount: 39.99
+total_amount: 774.38
+placed_at: "2024-06-18T16:00:00Z"
+promotion_id: promo004
+shipped_at: "2024-06-20T10:00:00Z"
+delivered_at: "2024-06-25T13:00:00Z"

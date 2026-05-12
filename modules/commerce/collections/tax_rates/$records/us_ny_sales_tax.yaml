@@ -1,0 +1,6 @@
+country_id: US
+region: New York
+label: NY Sales Tax
+rate_percent: 8.875
+effective_date: 2024-01-01
+is_active: true

@@ -1,0 +1,4 @@
+name: Australian Dollar
+symbol: A$
+decimal_places: 2
+is_active: true

@@ -1,0 +1,13 @@
+customer_id: cust013
+billing_address_id: addr020
+shipping_address_id: addr020
+shipping_option_id: usps_priority
+currency_id: USD
+status: shipped
+subtotal: 164.96
+discount_amount: 0.0
+tax_amount: 13.2
+shipping_amount: 7.99
+total_amount: 186.15
+placed_at: "2024-12-05T10:00:00Z"
+shipped_at: "2024-12-07T09:00:00Z"

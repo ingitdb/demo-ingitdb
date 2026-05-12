@@ -1,0 +1,4 @@
+name: DHL
+tracking_url_template: "https://www.dhl.com/track?trackingNumber={tracking_number}"
+contact_email: "support@dhl.com"
+is_active: true

@@ -1,0 +1,11 @@
+[
+  {
+    "$ID": "od_ord001_001",
+    "product_id": "prod001",
+    "quantity": 1,
+    "unit_price": 1299.99,
+    "currency_id": "USD",
+    "line_total": 1169.99,
+    "discount_percent": 10.0
+  }
+]

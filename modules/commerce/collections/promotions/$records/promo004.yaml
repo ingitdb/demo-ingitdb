@@ -1,0 +1,10 @@
+code: SUMMER15
+description: "15% off summer sale"
+discount_type: percent
+discount_value: 15.0
+min_order_amount: 40.0
+valid_from: 2024-06-01
+valid_until: 2024-08-31
+max_uses: 2000
+uses_count: 1245
+is_active: false

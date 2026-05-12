@@ -1,0 +1,4 @@
+name: FedEx
+tracking_url_template: "https://www.fedex.com/tracking/{tracking_number}"
+contact_email: "support@fedex.com"
+is_active: true

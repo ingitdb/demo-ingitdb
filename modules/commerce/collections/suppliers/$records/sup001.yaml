@@ -1,0 +1,7 @@
+name: Tech Supplies Co
+contact_name: John Smith
+email: "john@techsupplies.com"
+phone: "+12025551234"
+country_id: US
+website: "https://techsupplies.com"
+is_active: true

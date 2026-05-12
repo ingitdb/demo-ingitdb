@@ -1,0 +1,4 @@
+name: USPS
+tracking_url_template: "https://tools.usps.com/go/TrackConfirmAction?tRef=fullpage&tLc=2&text28777={tracking_number}"
+contact_email: "support@usps.com"
+is_active: true

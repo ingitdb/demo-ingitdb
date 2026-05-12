@@ -1,0 +1,8 @@
+first_name: Kate
+last_name: Thompson
+email: "kate.thompson@example.co.uk"
+phone: "+447700123456"
+country_id: GB
+preferred_currency_id: GBP
+created_at: "2023-07-15T11:30:00Z"
+is_active: true

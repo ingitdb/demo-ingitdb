@@ -1,0 +1,8 @@
+customer_id: cust012
+label: Home
+line1: Kurfurstendamm 25
+city: Berlin
+state: Berlin
+postal_code: 10719
+country_id: DE
+is_default: true

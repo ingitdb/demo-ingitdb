@@ -1,0 +1,8 @@
+shipper_id: ups
+name: UPS 2-Day Express
+service_level: express
+base_price: 22.99
+currency_id: USD
+estimated_days_min: 2
+estimated_days_max: 2
+is_active: true

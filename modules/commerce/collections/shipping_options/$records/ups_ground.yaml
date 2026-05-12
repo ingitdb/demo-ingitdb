@@ -1,0 +1,8 @@
+shipper_id: ups
+name: UPS Ground
+service_level: standard
+base_price: 8.99
+currency_id: USD
+estimated_days_min: 3
+estimated_days_max: 7
+is_active: true

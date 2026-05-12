@@ -1,0 +1,18 @@
+[
+  {
+    "$ID": "od_ord040_001",
+    "product_id": "prod007",
+    "quantity": 1,
+    "unit_price": 899.99,
+    "currency_id": "USD",
+    "line_total": 899.99
+  },
+  {
+    "$ID": "od_ord040_002",
+    "product_id": "prod029",
+    "quantity": 2,
+    "unit_price": 49.99,
+    "currency_id": "USD",
+    "line_total": 99.98
+  }
+]
