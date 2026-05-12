@@ -1,0 +1,39 @@
+titles:
+  en: Countries
+  ru: Страны
+  es: Países
+  fr: Pays
+  de: Länder
+
+record_file:
+  name: "{key}.json"
+  type: "map[string]any"
+  format: json
+
+columns:
+  names:
+    type: "map[locale]string"
+    required: true
+    title: Name
+  iso_code:
+    type: string
+    required: true
+    title: ISO code
+    length: 2
+  population:
+    type: int
+    title: Population
+  area:
+    type: int
+    title: Area (km²)
+  capital:
+    type: string
+    required: true
+    title: Capital
+
+columns_order:
+  - names
+  - iso_code
+  - capital
+  - population
+  - area

@@ -4,10 +4,7 @@ A demo IngitDB database - versioned, with support for multiple languages and vie
 
 ## Collections:
 
-- [geo](geo)
-    - [countries](geo/countries)
-        - states
-            - cities
+- [countries](geo/countries)
 - [ToDo](todo)
     - [tasks](todo/tasks)
     - [tags](todo/tags)

@@ -1,0 +1,13 @@
+titles:
+  en: Tags
+  ru: Теги
+
+record_file:
+  name: "tags.json"
+  type: "map[$record_id]map[$field_name]any"
+  format: json
+
+columns:
+  titles:
+    type: "map[locale]string"
+    required: true
