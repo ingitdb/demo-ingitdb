@@ -1,0 +1,7 @@
+default_namespace: geo
+languages:
+  - required: en
+  - optional: ru
+  - optional: es
+  - optional: fr
+  - optional: de

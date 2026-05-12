@@ -1,2 +1,2 @@
-countries: geo/countries
-todo.*: todo
+geo.*: modules/geo
+todo.*: modules/todo
