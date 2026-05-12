@@ -1,2 +1,3 @@
 geo.*: modules/geo
 todo.*: modules/todo
+commerce.*: modules/commerce

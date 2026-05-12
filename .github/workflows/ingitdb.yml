@@ -4,13 +4,23 @@ on:
   push:
     branches: ['*']
     tags: ['*']
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 jobs:
-  ingitdb_validation:
+  ingitdb:
+    name: Validate & Materialize
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: ingitdb/ingitdb-action@main
+
+      - name: Validate schema & data
+        uses: ingitdb/ingitdb-action@main
         with:
-          args: .
+          args: validate
+
+      - name: Materialize views
+        uses: ingitdb/ingitdb-action@main
+        with:
+          args: materialize

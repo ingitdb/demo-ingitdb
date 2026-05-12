@@ -1,10 +1,13 @@
-# 🛒 CRM Orders
-
-[![inGitDB](https://github.com/ingitdb/demo-commerce-ingitdb/actions/workflows/ingitdb.yml/badge.svg)](https://github.com/ingitdb/demo-commerce-ingitdb/actions/workflows/ingitdb.yml)
+# 🛒 commerce — CRM Orders
 
 > **Note**: This schema describes and relies on features of **inGitDB** that may not be fully implemented
 > yet. Its primary purpose is to drive development of inGitDB by serving as a comprehensive real-world use
 > case and to demonstrate its capabilities for business-critical applications.
+
+> **TODO: deduplicate `countries`** — this module defines its own `commerce.countries` (with `currency_id` FK
+> and different columns) while a separate [`geo.countries`](../geo) collection also exists. Long-term these
+> should unify so `commerce` references `geo.countries` via foreign key. Tracked separately — do not fix in
+> passing.
 
 CRM Orders is an open-source **inGitDB** schema template for a complete company CRM, ordering, and
 shipping system. It models everything from ISO currency definitions and customer accounts through product
