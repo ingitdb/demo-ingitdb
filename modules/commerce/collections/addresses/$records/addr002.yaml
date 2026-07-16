@@ -3,6 +3,6 @@ label: Work
 line1: 456 Fifth Ave
 city: New York
 state: NY
-postal_code: 10018
+postal_code: "10018"
 country_id: US
 is_default: false

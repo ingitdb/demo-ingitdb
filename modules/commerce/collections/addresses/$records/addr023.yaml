@@ -3,6 +3,6 @@ label: Work
 line1: 120 Spencer St
 city: Melbourne
 state: VIC
-postal_code: 3000
+postal_code: "3000"
 country_id: AU
 is_default: false

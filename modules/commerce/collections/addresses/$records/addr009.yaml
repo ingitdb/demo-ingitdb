@@ -3,6 +3,6 @@ label: Home
 line1: Unter den Linden 1
 city: Berlin
 state: Berlin
-postal_code: 10117
+postal_code: "10117"
 country_id: DE
 is_default: true

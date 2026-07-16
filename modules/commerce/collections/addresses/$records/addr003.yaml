@@ -3,6 +3,6 @@ label: Home
 line1: 789 Broadway
 city: New York
 state: NY
-postal_code: 10003
+postal_code: "10003"
 country_id: US
 is_default: true

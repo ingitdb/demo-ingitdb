@@ -3,6 +3,6 @@ label: Home
 line1: 2001 N Central Ave
 city: Phoenix
 state: AZ
-postal_code: 85004
+postal_code: "85004"
 country_id: US
 is_default: true

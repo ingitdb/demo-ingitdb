@@ -3,6 +3,6 @@ label: Home
 line1: 5000 Main St
 city: Houston
 state: TX
-postal_code: 77002
+postal_code: "77002"
 country_id: US
 is_default: true

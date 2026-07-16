@@ -3,6 +3,6 @@ label: Home
 line1: 1000 Brickell Ave
 city: Miami
 state: FL
-postal_code: 33131
+postal_code: "33131"
 country_id: US
 is_default: true

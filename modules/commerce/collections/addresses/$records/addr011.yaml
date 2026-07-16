@@ -3,6 +3,6 @@ label: Home
 line1: 1 Harbour Bridge Rd
 city: Sydney
 state: NSW
-postal_code: 2000
+postal_code: "2000"
 country_id: AU
 is_default: true

@@ -3,6 +3,6 @@ label: Home
 line1: 50 Collins St
 city: Melbourne
 state: VIC
-postal_code: 3000
+postal_code: "3000"
 country_id: AU
 is_default: true
