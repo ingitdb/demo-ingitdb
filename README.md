@@ -14,6 +14,8 @@ A collection of demo inGitDB databases — each module is an independent example
 
 Start with `todo` if you're new. Jump straight to `commerce` if you want to see inGitDB on a non-trivial schema.
 
+> **Not the TODO demo.** `modules/todo` (tasks, statuses, tags) is a schema example. The TODO demo — To buy and To watch lists, the same data OpenVaultDB's `ovdb demo install` creates — is not in this repository: create it with `ingitdb demo install` (see [`demo install`](https://github.com/ingitdb/ingitdb-cli/blob/main/docs/cli/commands/demo.md)).
+
 ## How the modules compose
 
 Each module is itself a valid inGitDB database with its own `.ingitdb/` config. The repo-level [`.ingitdb/root-collections.yaml`](.ingitdb/root-collections.yaml) imports them as namespaces:
